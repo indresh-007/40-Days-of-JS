@@ -2,8 +2,6 @@ Day 12 - 40 Days of JavaScript.
 
 🎯 Goal of This Lesson.
 
-✅ Welcome To Day 12
-✅ What Will We Cover?
 ✅ JavaScript Objects
 ✅ Create Objects with Literal Syntax
 ✅ Accessing Object Properties
@@ -23,7 +21,6 @@ Day 12 - 40 Days of JavaScript.
 ✅ The for…in loop
 ✅ Object.keys() method
 ✅ Object References
-✅ B.R.E.A.K
 ✅ Object.assign()
 ✅ Shallow Copy vs. Deep Copy
 ✅ Convert an Object to an Array
