@@ -51,8 +51,6 @@ try {
 
 // Real-World Use Cases
 
-// Real-World Use Cases
-
 function divideNumbers(a, b) {
   try {
     if (b === 0) {
