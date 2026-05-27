@@ -38,7 +38,6 @@ async function fetchData(url) {
 // - 3. HTTP Methods
 
 /*
-Check this out: https://www.youtube.com/watch?v=Qf2BBZVaAg8
 
 - GET: Fetch data from the server. It does not change anything.
 - POST: Send data to the server to create a new resource.
